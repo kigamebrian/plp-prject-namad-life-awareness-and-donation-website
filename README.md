@@ -20,3 +20,4 @@ copy the nono folder to htdocs in xamp
 the go to http://localhost/nono/ for fron end 
 
 and http://localhost/nono/admin to access admin panel
+becouse of the size of the images i removed the so it can be re uploaded once you set up the website 
