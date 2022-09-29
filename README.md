@@ -11,4 +11,12 @@ it has a register system and password reset system (might not work since uses my
 
 
 the website helps create awaresness on what the nomadic people are going through and can be used to also raise cash fr charity 
+use the readme file inside nono folder to install the website 
 
+the admin password is 123@Kigame
+import the sql file attached to phpmyadmin database
+and 
+copy the nono folder to htdocs in xamp
+the go to http://localhost/nono/ for fron end 
+
+and http://localhost/nono/admin to access admin panel
